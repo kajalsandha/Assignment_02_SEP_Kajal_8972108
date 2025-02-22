@@ -39,5 +39,12 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 5. Are the bias reports easy to understand and useful for making corrections?  
 6. Are access control measures effectively preventing unauthorized use?  
   
+**Premilinary Tasks**  
+1. Requirement Clarification and Finalization  
+2. Data Collection and Preprocessing Strategy  
+3. System Architecture Design  
+4. Tagging and Categorization Framework  
+5. Bias Detection and Data Rebalancing System  
+6. Compliance with Data Privacy Laws (GDPR and CCPA)  
 
 
