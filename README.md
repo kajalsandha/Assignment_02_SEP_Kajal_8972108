@@ -1,4 +1,4 @@
-*Name:-** Kajal   
+**Name:-** Kajal   
 **Student ID:-** 8972108  
 **Project:-** AI Training Data Management System  
   
@@ -14,3 +14,5 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 4. AI models perform better with unbiased training data.  
 5. Real-time bias reporting leads to quicker dataset improvements.  
 6. Compliance with GDPR and CCPA ensures ethical and legal AI development.  
+  
+
