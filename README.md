@@ -30,7 +30,14 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 4. Bias reports must be produced on a regular basis for user evaluation.  
 5. Alerts should be notified to users when biased and imbalanced data will occur.  
 6. Unauthorized data access should be prevented by access control.  
-
-
+  
+**Validations**  
+1. Does automatic categorization help developers to find training data quickly?  
+2. Does delay access of answers actually improve learning?  
+3. Are tags make it easier to search questions as compared to untagged data?  
+4. Are AI models do better while training with rebalanced data?  
+5. Are the bias reports easy to understand and useful for making corrections?  
+6. Are access control measures effectively preventing unauthorized use?  
+  
 
 
